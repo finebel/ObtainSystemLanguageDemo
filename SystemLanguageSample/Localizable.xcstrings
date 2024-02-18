@@ -17,6 +17,12 @@
           }
         }
       }
+    },
+    "Locale.current:\n%@" : {
+
+    },
+    "Locale.preferredLanguages:\n%@" : {
+
     }
   },
   "version" : "1.0"
